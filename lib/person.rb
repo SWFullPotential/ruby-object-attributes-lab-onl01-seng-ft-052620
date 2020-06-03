@@ -1,4 +1,4 @@
 class Person
-  attr_accessor :name 
+  attr_accessor :name, :job
   
 end
